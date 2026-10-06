@@ -1,2 +1,2 @@
 # arti-lab2
-learning outcome: learning how to work with anaconda, NumPy arrays, load, display, inspect and save images using OpenCV and Pillow.
+learning outcome: image sampling and quantization, their effects on image detail, addition and subtraction with clipping, and image set operations using NumPy.
